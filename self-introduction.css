@@ -1,0 +1,9 @@
+body {
+  background-color: lightblue;
+}
+table, td, th {
+  border: solid 1px gray;
+   /* double 二重線で表示するdashed 破線で表示するdotted 点線で表示する */
+  background-color: white;
+  color : darkblue;
+}
