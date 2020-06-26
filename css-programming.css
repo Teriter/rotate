@@ -1,7 +1,11 @@
-.face {
-  color: red;
+#header {
+    color: red;
 }
-.back {
-  color: red;
-  opacity: 0.4;
+
+.rotate--face {
+    opacity: 1;
+}
+
+.rotate--back {
+    opacity: 0.4;
 }
